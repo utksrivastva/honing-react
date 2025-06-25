@@ -1,1 +1,1 @@
-# Practicing React Concepts
+# Honing React Concepts
