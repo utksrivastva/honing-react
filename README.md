@@ -1,1 +1,1 @@
-# Honing React Concepts
+# Honing React
