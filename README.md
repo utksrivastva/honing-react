@@ -4,4 +4,4 @@
 - Persisting values between rerenders using `useRef` hook.
 - Performing side effects using `useEffect` and `useLayoutEffect` hooks.
 - Using `useContext` for persisting context.
-- Using HOC pattern for resuable.
+- Implementing Higher Order Component (HOC) design pattern for reusability
